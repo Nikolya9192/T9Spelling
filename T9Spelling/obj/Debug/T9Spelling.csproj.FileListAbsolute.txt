@@ -1,0 +1,10 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\T9Spelling\T9Spelling\bin\Debug\T9Spelling.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\T9Spelling\T9Spelling\bin\Debug\T9Spelling.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\T9Spelling\T9Spelling\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\T9Spelling\T9Spelling\obj\Debug\T9Spelling.Form1.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\T9Spelling\T9Spelling\obj\Debug\T9Spelling.Properties.Resources.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\T9Spelling\T9Spelling\obj\Debug\T9Spelling.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\T9Spelling\T9Spelling\obj\Debug\T9Spelling.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\T9Spelling\T9Spelling\obj\Debug\T9Spelling.pdb
+d:\pr\T9Spelling\T9Spelling\obj\Debug\T9Spelling.exe
+d:\pr\T9Spelling\T9Spelling\obj\Debug\T9Spelling.pdb
